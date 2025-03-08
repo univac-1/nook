@@ -7,4 +7,5 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
+  base: '/nook/', // GitHub Pagesのリポジトリ名に合わせて設定
 });
