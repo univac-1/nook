@@ -1,0 +1,13 @@
+{
+  "sources": [
+    "reddit",
+    "hacker_news",
+    "github_trending",
+    "tech_feed",
+    "paper_summarizer"
+  ],
+  "dates": [
+    "2025-03-08",
+    "2025-03-02"
+  ]
+}

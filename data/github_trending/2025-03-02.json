@@ -1,0 +1,748 @@
+{
+  "items": [
+    {
+      "title": "LadybirdBrowser/ladybird",
+      "url": "https://github.com/LadybirdBrowser/ladybird",
+      "source": "github_trending",
+      "content": "\n本当に独立したウェブブラウザ\n\n⭐ スター数: 29917\n\n---\n"
+    },
+    {
+      "title": "Soulter/AstrBot",
+      "url": "https://github.com/Soulter/AstrBot",
+      "source": "github_trending",
+      "content": "\n✨簡単に使えるマルチプラットフォームのLLMチャットボットおよび開発フレームワーク✨。QQ、QQチャンネル、Telegram、WeChat個人アカウント(Gewechat)、企業WeChat、飛書、内蔵Webチャットに対応。OpenAI GPT、DeepSeek、Ollama、Llama、GLM、Gemini、硅基流動、月之暗面、OneAPI、LLMTunerをサポート。LLM Agentプラグインの開発、ビジュアルパネルに対応。一鍵でデプロイ可能。Difyワークフロー、コードエグゼキューター、Whisper音声認識もサポートしています。\n\n⭐ スター数: 4427\n\n---\n"
+    },
+    {
+      "title": "landing-ai/vision-agent",
+      "url": "https://github.com/landing-ai/vision-agent",
+      "source": "github_trending",
+      "content": "\nビジョンエージェント\n\n⭐ スター数: 3437\n\n---\n"
+    },
+    {
+      "title": "freddyaboulton/fastrtc",
+      "url": "https://github.com/freddyaboulton/fastrtc",
+      "source": "github_trending",
+      "content": "\nリアルタイム通信のためのPythonライブラリ\n\n⭐ スター数: 1565\n\n---\n"
+    },
+    {
+      "title": "clash-verge-rev/clash-verge-rev",
+      "url": "https://github.com/clash-verge-rev/clash-verge-rev",
+      "source": "github_trending",
+      "content": "\nTauriをベースにしたモダンなGUIクライアントで、Windows、macOS、Linuxで動作し、プロキシの体験をカスタマイズするために設計されています。\n\n⭐ スター数: 48981\n\n---\n"
+    },
+    {
+      "title": "modelscope/DiffSynth-Studio",
+      "url": "https://github.com/modelscope/DiffSynth-Studio",
+      "source": "github_trending",
+      "content": "\nディフュージョン・モデルの魔法を楽しんでください！\n\n⭐ スター数: 7468\n\n---\n"
+    },
+    {
+      "title": "allenai/olmocr",
+      "url": "https://github.com/allenai/olmocr",
+      "source": "github_trending",
+      "content": "\nPDFを線形化するためのツールキット、LLMデータセット/トレーニング用\n\n⭐ スター数: 4926\n\n---\n"
+    },
+    {
+      "title": "fish-shell/fish-shell",
+      "url": "https://github.com/fish-shell/fish-shell",
+      "source": "github_trending",
+      "content": "\nユーザーフレンドリーなコマンドラインシェル。\n\n⭐ スター数: 28607\n\n---\n"
+    },
+    {
+      "title": "twentyhq/twenty",
+      "url": "https://github.com/twentyhq/twenty",
+      "source": "github_trending",
+      "content": "\nSalesforceの現代的な代替品を、コミュニティの力で構築しています。\n\n⭐ スター数: 26521\n\n---\n"
+    },
+    {
+      "title": "Soulter/AstrBot",
+      "url": "https://github.com/Soulter/AstrBot",
+      "source": "github_trending",
+      "content": "\n✨簡単に使えるマルチプラットフォームのLLMチャットボットおよび開発フレームワーク✨。QQ、QQチャンネル、Telegram、WeChat個人アカウント(Gewechat)、企業WeChat、Feishu、内蔵Webチャットに対応。OpenAI GPT、DeepSeek、Ollama、Llama、GLM、Gemini、硅基流動、月之暗面、OneAPI、LLMTunerをサポート。LLM Agentプラグインの開発、ビジュアルパネルに対応。一鍵でデプロイ可能。Difyワークフロー、コードエグゼキューター、Whisper音声認識をサポートしています。\n\n⭐ スター数: 4427\n\n---\n"
+    },
+    {
+      "title": "landing-ai/vision-agent",
+      "url": "https://github.com/landing-ai/vision-agent",
+      "source": "github_trending",
+      "content": "\nビジョンエージェント\n\n⭐ スター数: 3437\n\n---\n"
+    },
+    {
+      "title": "freddyaboulton/fastrtc",
+      "url": "https://github.com/freddyaboulton/fastrtc",
+      "source": "github_trending",
+      "content": "\nリアルタイム通信のためのPythonライブラリ\n\n⭐ スター数: 1565\n\n---\n"
+    },
+    {
+      "title": "modelscope/DiffSynth-Studio",
+      "url": "https://github.com/modelscope/DiffSynth-Studio",
+      "source": "github_trending",
+      "content": "\nディフュージョン・モデルの魔法を楽しんでください！\n\n⭐ スター数: 7468\n\n---\n"
+    },
+    {
+      "title": "allenai/olmocr",
+      "url": "https://github.com/allenai/olmocr",
+      "source": "github_trending",
+      "content": "\nPDFを線形化するためのツールキット、LLMデータセット/トレーニング用\n\n⭐ スター数: 4926\n\n---\n"
+    },
+    {
+      "title": "commaai/openpilot",
+      "url": "https://github.com/commaai/openpilot",
+      "source": "github_trending",
+      "content": "\nopenpilotはロボティクスのためのオペレーティングシステムです。現在、275台以上の対応車種の運転支援システムをアップグレードしています。\n\n⭐ スター数: 52755\n\n---\n"
+    },
+    {
+      "title": "ungoogled-software/ungoogled-chromium",
+      "url": "https://github.com/ungoogled-software/ungoogled-chromium",
+      "source": "github_trending",
+      "content": "\nGoogle Chromium、Googleとの統合なし\n\n⭐ スター数: 21595\n\n---\n"
+    },
+    {
+      "title": "vanna-ai/vanna",
+      "url": "https://github.com/vanna-ai/vanna",
+      "source": "github_trending",
+      "content": "\n🤖 SQLデータベースとチャット 📊。RAGを使用したLLMによる正確なテキストからSQLへの生成 🔄。\n\n⭐ スター数: 13561\n\n---\n"
+    },
+    {
+      "title": "onyx-dot-app/onyx",
+      "url": "https://github.com/onyx-dot-app/onyx",
+      "source": "github_trending",
+      "content": "\nGen-AI Chat for Teams - チームの独自の知識にアクセスできるとしたら、ChatGPTのようなものだと思ってください。\n\n⭐ スター数: 11837\n\n---\n"
+    },
+    {
+      "title": "livekit/agents",
+      "url": "https://github.com/livekit/agents",
+      "source": "github_trending",
+      "content": "\nリアルタイムのマルチモーダルAIアプリケーションを構築する 🤖🎙️📹\n\n⭐ スター数: 5203\n\n---\n"
+    },
+    {
+      "title": "brave/brave-browser",
+      "url": "https://github.com/brave/brave-browser",
+      "source": "github_trending",
+      "content": "\nBraveブラウザは、Android、iOS、Linux、macOS、Windowsに対応しています。\n\n⭐ スター数: 18632\n\n---\n"
+    },
+    {
+      "title": "processing/p5.js",
+      "url": "https://github.com/processing/p5.js",
+      "source": "github_trending",
+      "content": "\np5.jsは、アーティスト、デザイナー、学生、そして誰でもがウェブ上でコードを学び、創造的に自己表現できるクライアントサイドのJSプラットフォームです。これはProcessingの基本原則に基づいています。http://twitter.com/p5xjs —\n\n⭐ スター数: 22166\n\n---\n"
+    },
+    {
+      "title": "webpack/webpack",
+      "url": "https://github.com/webpack/webpack",
+      "source": "github_trending",
+      "content": "\nJavaScriptやその関連技術のためのバンドラーです。多くのモジュールを少数のバンドルされたアセットにまとめます。コードスプリッティングにより、アプリケーションの一部を必要に応じてロードすることができます。「ローダー」を通じて、モジュールはCommonJs、AMD、ES6モジュール、CSS、画像、JSON、Coffeescript、LESSなど、あなたのカスタムのものまで対応しています。\n\n⭐ スター数: 65076\n\n---\n"
+    },
+    {
+      "title": "WordPress/gutenberg",
+      "url": "https://github.com/WordPress/gutenberg",
+      "source": "github_trending",
+      "content": "\nWordPressおよびそれ以外のブロックエディター プロジェクトです。プラグインは公式リポジトリから入手できます。\n\n⭐ スター数: 10911\n\n---\n"
+    },
+    {
+      "title": "klaudiosinani/hyper-pokemon",
+      "url": "https://github.com/klaudiosinani/hyper-pokemon",
+      "source": "github_trending",
+      "content": "\nHyperターミナル用のカスタムポケモンテーマ\n\n⭐ スター数: 1205\n\n---\n"
+    },
+    {
+      "title": "vercel/next.js",
+      "url": "https://github.com/vercel/next.js",
+      "source": "github_trending",
+      "content": "\nReactフレームワーク\n\n⭐ スター数: 129804\n\n---\n"
+    },
+    {
+      "title": "yokoffing/Betterfox",
+      "url": "https://github.com/yokoffing/Betterfox",
+      "source": "github_trending",
+      "content": "\nFirefoxのスピード、プライバシー、セキュリティのためのuser.js。あなたのお気に入りのブラウザが、さらに良くなります。\n\n⭐ スター数: 7224\n\n---\n"
+    },
+    {
+      "title": "facebook/react",
+      "url": "https://github.com/facebook/react",
+      "source": "github_trending",
+      "content": "\nウェブおよびネイティブユーザーインターフェイスのためのライブラリ。\n\n⭐ スター数: 232761\n\n---\n"
+    },
+    {
+      "title": "xszyou/Fay",
+      "url": "https://github.com/xszyou/Fay",
+      "source": "github_trending",
+      "content": "\nfayは、デジタルヒューマン（2.5D、3D、モバイル、PC、ウェブ）や大規模言語モデル（OpenAI互換、DeepSeek）がビジネスシステムと連携するのを助けるエージェントフレームワークです。\n\n⭐ スター数: 10153\n\n---\n"
+    },
+    {
+      "title": "meshery/meshery",
+      "url": "https://github.com/meshery/meshery",
+      "source": "github_trending",
+      "content": "\nMeshery、クラウドネイティブマネージャー\n\n⭐ スター数: 6804\n\n---\n"
+    },
+    {
+      "title": "clash-verge-rev/clash-verge-rev",
+      "url": "https://github.com/clash-verge-rev/clash-verge-rev",
+      "source": "github_trending",
+      "content": "\nTauriに基づいたモダンなGUIクライアントで、Windows、macOS、Linuxで動作し、独自のプロキシ体験を提供します。\n\n⭐ スター数: 48981\n\n---\n"
+    },
+    {
+      "title": "twentyhq/twenty",
+      "url": "https://github.com/twentyhq/twenty",
+      "source": "github_trending",
+      "content": "\nコミュニティの力で駆動する、Salesforceの現代的な代替品を構築しています。\n\n⭐ スター数: 26521\n\n---\n"
+    },
+    {
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "source": "github_trending",
+      "content": "\nDifyは、オープンソースのLLMアプリ開発プラットフォームです。Difyの直感的なインターフェースは、AIワークフロー、RAGパイプライン、エージェント機能、モデル管理、観測可能性機能などを統合しており、プロトタイプから本番環境まで迅速に移行できるようにします。\n\n⭐ スター数: 75746\n\n---\n"
+    },
+    {
+      "title": "excalidraw/excalidraw",
+      "url": "https://github.com/excalidraw/excalidraw",
+      "source": "github_trending",
+      "content": "\n手描き風の図をスケッチするためのバーチャルホワイトボード\n\n⭐ スター数: 93482\n\n---\n"
+    },
+    {
+      "title": "Lissy93/web-check",
+      "url": "https://github.com/Lissy93/web-check",
+      "source": "github_trending",
+      "content": "\n🕵️‍♂️ ウェブサイトを分析するためのオールインワンOSINTツール\n\n⭐ スター数: 24052\n\n---\n"
+    },
+    {
+      "title": "trpc/trpc",
+      "url": "https://github.com/trpc/trpc",
+      "source": "github_trending",
+      "content": "\n🧙‍♀️ 迅速に動いて何も壊さない。エンドツーエンドのタイプセーフなAPIを簡単に。\n\n⭐ スター数: 36237\n\n---\n"
+    },
+    {
+      "title": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "source": "github_trending",
+      "content": "\n公正なコードのワークフローオートメーションプラットフォームで、ネイティブなAI機能を備えています。ビジュアルビルディングとカスタムコードを組み合わせ、自社ホスティングまたはクラウド、400以上の統合に対応しています。\n\n⭐ スター数: 63750\n\n---\n"
+    },
+    {
+      "title": "satnaing/shadcn-admin",
+      "url": "https://github.com/satnaing/shadcn-admin",
+      "source": "github_trending",
+      "content": "\nShadcnとViteを使用して構築された管理者ダッシュボードのUI。\n\n⭐ スター数: 3916\n\n---\n"
+    },
+    {
+      "title": "subnub/myDrive",
+      "url": "https://github.com/subnub/myDrive",
+      "source": "github_trending",
+      "content": "\nNode.jsとMongoDBを使用したGoogle Driveのクローン\n\n⭐ スター数: 3497\n\n---\n"
+    },
+    {
+      "title": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "source": "github_trending",
+      "content": "\nfreeCodeCamp.orgのオープンソースのコードベースとカリキュラム。無料でプログラミングを学べます。\n\n⭐ スター数: 410601\n\n---\n"
+    },
+    {
+      "title": "jaegertracing/jaeger",
+      "url": "https://github.com/jaegertracing/jaeger",
+      "source": "github_trending",
+      "content": "\nCNCF Jaegerは、分散トレーシングプラットフォームです。\n\n⭐ スター数: 20972\n\n---\n"
+    },
+    {
+      "title": "grpc/grpc-go",
+      "url": "https://github.com/grpc/grpc-go",
+      "source": "github_trending",
+      "content": "\ngRPCのGo言語実装。HTTP/2ベースのRPC。\n\n⭐ スター数: 21468\n\n---\n"
+    },
+    {
+      "title": "go-kratos/kratos",
+      "url": "https://github.com/go-kratos/kratos",
+      "source": "github_trending",
+      "content": "\nクラウドネイティブ時代のための究極のGoマイクロサービスフレームワーク。\n\n⭐ スター数: 23771\n\n---\n"
+    },
+    {
+      "title": "nats-io/nats-server",
+      "url": "https://github.com/nats-io/nats-server",
+      "source": "github_trending",
+      "content": "\nNATS.io、クラウドおよびエッジネイティブメッセージングシステム向けの高性能サーバー。\n\n⭐ スター数: 16563\n\n---\n"
+    },
+    {
+      "title": "EndlessCheng/codeforces-go",
+      "url": "https://github.com/EndlessCheng/codeforces-go",
+      "source": "github_trending",
+      "content": "\n「算法竞赛模板库」 by 灵茶山艾府 💭💡🎈\n\n⭐ スター数: 5955\n\n---\n"
+    },
+    {
+      "title": "majd/ipatool",
+      "url": "https://github.com/majd/ipatool",
+      "source": "github_trending",
+      "content": "\niOS App Storeからアプリのパッケージ（ipaファイルとして知られています）を検索し、ダウンロードするためのコマンドライン・ツール。\n\n⭐ スター数: 6395\n\n---\n"
+    },
+    {
+      "title": "VictoriaMetrics/VictoriaMetrics",
+      "url": "https://github.com/VictoriaMetrics/VictoriaMetrics",
+      "source": "github_trending",
+      "content": "\nVictoriaMetrics: 高速でコスト効率の良い監視ソリューションおよび時系列データベース\n\n⭐ スター数: 13309\n\n---\n"
+    },
+    {
+      "title": "kyverno/kyverno",
+      "url": "https://github.com/kyverno/kyverno",
+      "source": "github_trending",
+      "content": "\nクラウドネイティブポリシーの管理\n\n⭐ スター数: 6076\n\n---\n"
+    },
+    {
+      "title": "gruntwork-io/terragrunt",
+      "url": "https://github.com/gruntwork-io/terragrunt",
+      "source": "github_trending",
+      "content": "\nTerragruntは、OpenTofu/Terraformで書かれたInfrastructure as Codeをスケールさせるための柔軟なオーケストレーションツールです。\n\n⭐ スター数: 8450\n\n---\n"
+    },
+    {
+      "title": "hashicorp/nomad",
+      "url": "https://github.com/hashicorp/nomad",
+      "source": "github_trending",
+      "content": "\nNomadは、使いやすく、柔軟で、高性能なワークロードオーケストレーターであり、マイクロサービス、バッチ、コンテナ化されたアプリケーション、非コンテナ化のアプリケーションを混在してデプロイできます。Nomadは運用とスケーリングが簡単で、ConsulとVaultのネイティブな統合を持っています。\n\n⭐ スター数: 15275\n\n---\n"
+    },
+    {
+      "title": "fish-shell/fish-shell",
+      "url": "https://github.com/fish-shell/fish-shell",
+      "source": "github_trending",
+      "content": "\nユーザーフレンドリーなコマンドラインシェル。\n\n⭐ スター数: 28607\n\n---\n"
+    },
+    {
+      "title": "unionlabs/union",
+      "url": "https://github.com/unionlabs/union",
+      "source": "github_trending",
+      "content": "\n検閲耐性、高度なセキュリティ、そして分散型ファイナンスでの使用を目的とした、信頼最小化かつゼロ知識のブリッジングプロトコル。\n\n⭐ スター数: 33135\n\n---\n"
+    },
+    {
+      "title": "servo/servo",
+      "url": "https://github.com/servo/servo",
+      "source": "github_trending",
+      "content": "\nServoは、開発者がアプリケーションにウェブ技術を埋め込むための軽量で高性能な代替手段を提供することで、開発者を支援することを目指しています。\n\n⭐ スター数: 29505\n\n---\n"
+    },
+    {
+      "title": "risingwavelabs/risingwave",
+      "url": "https://github.com/risingwavelabs/risingwave",
+      "source": "github_trending",
+      "content": "\n開発者向けのストリーム処理プラットフォーム。\n\n⭐ スター数: 7450\n\n---\n"
+    },
+    {
+      "title": "linera-io/linera-protocol",
+      "url": "https://github.com/linera-io/linera-protocol",
+      "source": "github_trending",
+      "content": "\nLineraプロトコルのメインリポジトリ\n\n⭐ スター数: 18844\n\n---\n"
+    },
+    {
+      "title": "embassy-rs/embassy",
+      "url": "https://github.com/embassy-rs/embassy",
+      "source": "github_trending",
+      "content": "\n現代的な組み込みフレームワークで、Rustとasyncを使用しています。\n\n⭐ スター数: 6322\n\n---\n"
+    },
+    {
+      "title": "nushell/nushell",
+      "url": "https://github.com/nushell/nushell",
+      "source": "github_trending",
+      "content": "\n新しいタイプのシェル\n\n⭐ スター数: 34079\n\n---\n"
+    },
+    {
+      "title": "MystenLabs/sui",
+      "url": "https://github.com/MystenLabs/sui",
+      "source": "github_trending",
+      "content": "\nSuiは、Moveプログラミング言語によって駆動される、高スループット、低遅延、アセット指向のプログラミングモデルを持つ次世代のスマートコントラクトプラットフォームです。\n\n⭐ スター数: 6668\n\n---\n"
+    },
+    {
+      "title": "tauri-apps/plugins-workspace",
+      "url": "https://github.com/tauri-apps/plugins-workspace",
+      "source": "github_trending",
+      "content": "\n公式のTauriプラグインが一か所に集まっています！\n\n⭐ スター数: 1127\n\n---\n"
+    },
+    {
+      "title": "rust-lang/book",
+      "url": "https://github.com/rust-lang/book",
+      "source": "github_trending",
+      "content": "\nRustプログラミング言語\n\n⭐ スター数: 15768\n\n---\n"
+    },
+    {
+      "title": "hathach/tinyusb",
+      "url": "https://github.com/hathach/tinyusb",
+      "source": "github_trending",
+      "content": "\n組み込みシステム向けのオープンソースのクロスプラットフォームUSBスタック\n\n⭐ スター数: 5336\n\n---\n"
+    },
+    {
+      "title": "asg017/sqlite-vec",
+      "url": "https://github.com/asg017/sqlite-vec",
+      "source": "github_trending",
+      "content": "\nどこでも動作するベクター検索のSQLite拡張機能！\n\n⭐ スター数: 4993\n\n---\n"
+    },
+    {
+      "title": "axboe/liburing",
+      "url": "https://github.com/axboe/liburing",
+      "source": "github_trending",
+      "content": "\nLinuxカーネルのio_uringサポートのためのヘルパーを提供するライブラリ\n\n⭐ スター数: 3031\n\n---\n"
+    },
+    {
+      "title": "cesanta/mongoose",
+      "url": "https://github.com/cesanta/mongoose",
+      "source": "github_trending",
+      "content": "\n組み込みTCP/IPネットワークスタックに、組み込みウェブサーバー、Websocket、MQTTクライアントが含まれています。\n\n⭐ スター数: 11435\n\n---\n"
+    },
+    {
+      "title": "coturn/coturn",
+      "url": "https://github.com/coturn/coturn",
+      "source": "github_trending",
+      "content": "\ncoturn TURNサーバープロジェクト\n\n⭐ スター数: 11872\n\n---\n"
+    },
+    {
+      "title": "fluent/fluent-bit",
+      "url": "https://github.com/fluent/fluent-bit",
+      "source": "github_trending",
+      "content": "\nLinux、BSD、OSX、Windows向けの高速かつ軽量なログ、メトリクス、トレース処理ツール\n\n⭐ スター数: 6621\n\n---\n"
+    },
+    {
+      "title": "coolsnowwolf/lede",
+      "url": "https://github.com/coolsnowwolf/lede",
+      "source": "github_trending",
+      "content": "\nLeanのLEDEソース\n\n⭐ スター数: 30388\n\n---\n"
+    },
+    {
+      "title": "littlefs-project/littlefs",
+      "url": "https://github.com/littlefs-project/littlefs",
+      "source": "github_trending",
+      "content": "\nマイクロコントローラ向けに設計された小型のフェイルセーフファイルシステム\n\n⭐ スター数: 5417\n\n---\n"
+    },
+    {
+      "title": "Mbed-TLS/mbedtls",
+      "url": "https://github.com/Mbed-TLS/mbedtls",
+      "source": "github_trending",
+      "content": "\nオープンソースで、ポータブル、使いやすく、読みやすく、柔軟なTLSライブラリであり、PSA暗号化APIのリファレンス実装です。リリースは不定期で、通常は3〜6ヶ月ごとに行われます。\n\n⭐ スター数: 5727\n\n---\n"
+    },
+    {
+      "title": "jemalloc/jemalloc",
+      "url": "https://github.com/jemalloc/jemalloc",
+      "source": "github_trending",
+      "content": "\n⭐ スター数: 9794\n\n---\n"
+    },
+    {
+      "title": "LadybirdBrowser/ladybird",
+      "url": "https://github.com/LadybirdBrowser/ladybird",
+      "source": "github_trending",
+      "content": "\n本当に独立したウェブブラウザ\n\n⭐ スター数: 29917\n\n---\n"
+    },
+    {
+      "title": "facebook/rocksdb",
+      "url": "https://github.com/facebook/rocksdb",
+      "source": "github_trending",
+      "content": "\n高速ストレージのための埋め込み可能で永続的なキー・バリューストアを提供するライブラリ。\n\n⭐ スター数: 29216\n\n---\n"
+    },
+    {
+      "title": "k2-fsa/sherpa-onnx",
+      "url": "https://github.com/k2-fsa/sherpa-onnx",
+      "source": "github_trending",
+      "content": "\n次世代のKaldiとonnxruntimeを使用した、インターネット接続なしでの音声認識、テキスト読み上げ、スピーカー識別、VAD（音声活動検出）。組み込みシステム、Android、iOS、HarmonyOS、Raspberry Pi、RISC-V、x86_64サーバー、websocketサーバー/クライアント、C/C++、Python、Kotlin、C#、Go、NodeJS、Java、Swift、Dart、JavaScript、Flutter、Object Pascal、Lazarus、Rustをサポートしています。\n\n⭐ スター数: 5062\n\n---\n"
+    },
+    {
+      "title": "apple/foundationdb",
+      "url": "https://github.com/apple/foundationdb",
+      "source": "github_trending",
+      "content": "\nFoundationDB - オープンソースの、分散型の、トランザクショナルなキー・バリューストア\n\n⭐ スター数: 14884\n\n---\n"
+    },
+    {
+      "title": "aria2/aria2",
+      "url": "https://github.com/aria2/aria2",
+      "source": "github_trending",
+      "content": "\naria2は、コマンドラインで操作する軽量なマルチプロトコル、マルチソース、クロスプラットフォームのダウンロードユーティリティです。HTTP/HTTPS、FTP、SFTP、BitTorrent、Metalinkをサポートしています。\n\n⭐ スター数: 36842\n\n---\n"
+    },
+    {
+      "title": "duckdb/duckdb",
+      "url": "https://github.com/duckdb/duckdb",
+      "source": "github_trending",
+      "content": "\nDuckDBは、分析用のインメモリSQLデータベース管理システムです。\n\n⭐ スター数: 26945\n\n---\n"
+    },
+    {
+      "title": "ceph/ceph",
+      "url": "https://github.com/ceph/ceph",
+      "source": "github_trending",
+      "content": "\nCephは、分散オブジェクト、ブロック、ファイルストレージのプラットフォームです。\n\n⭐ スター数: 14655\n\n---\n"
+    },
+    {
+      "title": "SerenityOS/serenity",
+      "url": "https://github.com/SerenityOS/serenity",
+      "source": "github_trending",
+      "content": "\nSerenity Operating System 🐞\n\n⭐ スター数: 31137\n\n---\n"
+    },
+    {
+      "title": "google/flatbuffers",
+      "url": "https://github.com/google/flatbuffers",
+      "source": "github_trending",
+      "content": "\nFlatBuffers: メモリ効率の高いシリアライゼーションライブラリ\n\n⭐ スター数: 23832\n\n---\n"
+    },
+    {
+      "title": "Floorp-Projects/Floorp",
+      "url": "https://github.com/Floorp-Projects/Floorp",
+      "source": "github_trending",
+      "content": "\nFloorp Browserのバージョン10以降のすべてのソースコード。最も進化し、最速のFirefox派生ブラウザ🦊\n\n⭐ スター数: 6460\n\n---\n"
+    },
+    {
+      "title": "AutoMQ/automq",
+      "url": "https://github.com/AutoMQ/automq",
+      "source": "github_trending",
+      "content": "\nAutoMQは、耐久性をS3とEBSに分離することでKafkaのクラウドネイティブな代替手段です。コスト効率が10倍。クロスAZトラフィックのコストはなし。数秒でオートスケール。レイテンシは1桁ミリ秒です。\n\n⭐ スター数: 4291\n\n---\n"
+    },
+    {
+      "title": "synthetichealth/synthea",
+      "url": "https://github.com/synthetichealth/synthea",
+      "source": "github_trending",
+      "content": "\n合成患者集団シミュレーター\n\n⭐ スター数: 2353\n\n---\n"
+    },
+    {
+      "title": "StarRocks/starrocks",
+      "url": "https://github.com/StarRocks/starrocks",
+      "source": "github_trending",
+      "content": "\n世界最速のオープンクエリエンジンで、データレイクハウス上でも離れてもサブセカンドの分析が可能です。StarRocksは、ほぼあらゆるシナリオをサポートする柔軟性を持ち、多次元分析、リアルタイム分析、およびアドホッククエリに対して最高クラスのパフォーマンスを提供します。Linux Foundationのプロジェクトです。\n\n⭐ スター数: 9594\n\n---\n"
+    },
+    {
+      "title": "alibaba/spring-cloud-alibaba",
+      "url": "https://github.com/alibaba/spring-cloud-alibaba",
+      "source": "github_trending",
+      "content": "\nSpring Cloud Alibabaは、Alibabaミドルウェアの分散ソリューション向けのアプリケーション開発のためのワンストップソリューションを提供します。\n\n⭐ スター数: 28260\n\n---\n"
+    },
+    {
+      "title": "checkstyle/checkstyle",
+      "url": "https://github.com/checkstyle/checkstyle",
+      "source": "github_trending",
+      "content": "\nCheckstyleは、プログラマーがコーディング標準に従ったJavaコードを書くのを助ける開発ツールです。デフォルトではGoogle Java Style GuideとSun Code Conventionsをサポートしていますが、高度に設定可能です。ANTタスクやコマンドラインプログラムで呼び出すことができます。\n\n⭐ スター数: 8482\n\n---\n"
+    },
+    {
+      "title": "zxing/zxing",
+      "url": "https://github.com/zxing/zxing",
+      "source": "github_trending",
+      "content": "\nZXing（「Zebra Crossing」）は、JavaやAndroid向けのバーコードスキャンライブラリです。\n\n⭐ スター数: 33102\n\n---\n"
+    },
+    {
+      "title": "open-telemetry/opentelemetry-java",
+      "url": "https://github.com/open-telemetry/opentelemetry-java",
+      "source": "github_trending",
+      "content": "\nOpenTelemetry Java SDK\n\n⭐ スター数: 2128\n\n---\n"
+    },
+    {
+      "title": "Activiti/Activiti",
+      "url": "https://github.com/Activiti/Activiti",
+      "source": "github_trending",
+      "content": "\nActivitiは、ビジネスユーザー、開発者、システム管理者を対象とした軽量なワークフローおよびビジネスプロセス管理（BPM）プラットフォームです。そのコアは、Java向けの超高速で堅牢なBPMN 2プロセスエンジンです。オープンソースであり、Apacheライセンスの下で配布されています。Activitiは、どのJavaアプリケーションでも、サーバー上、クラスター上、または...で動作します。\n\n⭐ スター数: 10252\n\n---\n"
+    },
+    {
+      "title": "apache/cloudstack",
+      "url": "https://github.com/apache/cloudstack",
+      "source": "github_trending",
+      "content": "\nApache CloudStackは、オープンソースのInfrastructure as a Service（IaaS）クラウドコンピューティングプラットフォームです。\n\n⭐ スター数: 2244\n\n---\n"
+    },
+    {
+      "title": "camunda/camunda",
+      "url": "https://github.com/camunda/camunda",
+      "source": "github_trending",
+      "content": "\nプロセス・オーケストレーション・フレームワーク\n\n⭐ スター数: 3488\n\n---\n"
+    },
+    {
+      "title": "JetBrains/Exposed",
+      "url": "https://github.com/JetBrains/Exposed",
+      "source": "github_trending",
+      "content": "\nKotlin SQL フレームワーク\n\n⭐ スター数: 8561\n\n---\n"
+    },
+    {
+      "title": "CymChad/BaseRecyclerViewAdapterHelper",
+      "url": "https://github.com/CymChad/BaseRecyclerViewAdapterHelper",
+      "source": "github_trending",
+      "content": "\nBRVAH:強力で柔軟なRecyclerAdapter\n\n⭐ スター数: 24437\n\n---\n"
+    },
+    {
+      "title": "bitwarden/android",
+      "url": "https://github.com/bitwarden/android",
+      "source": "github_trending",
+      "content": "\nBitwardenのAndroid用モバイルアプリ。\n\n⭐ スター数: 6932\n\n---\n"
+    },
+    {
+      "title": "android/platform-samples",
+      "url": "https://github.com/android/platform-samples",
+      "source": "github_trending",
+      "content": "\n異なるAndroid OSプラットフォームのAPIのサンプル集。\n\n⭐ スター数: 1249\n\n---\n"
+    },
+    {
+      "title": "hectorqin/reader",
+      "url": "https://github.com/hectorqin/reader",
+      "source": "github_trending",
+      "content": "\n以下のテキストを自然な日本語に翻訳します。\n\n---\n\n阅读3サーバー版、デスクトップ版、iOSに対応しています。バックエンドはKotlin + Spring Boot + Vert.x + Coroutineを使用し、フロントエンドはVue.js + Elementを使用しています。ぜひスター（☆）を押して、公式アカウント「假装大佬」をフォローしてください❗️\n\n⭐ スター数: 8992\n\n---\n"
+    },
+    {
+      "title": "github/CopilotForXcode",
+      "url": "https://github.com/github/CopilotForXcode",
+      "source": "github_trending",
+      "content": "\nGitHub CopilotのXcode拡張機能\n\n⭐ スター数: 3226\n\n---\n"
+    },
+    {
+      "title": "yonaskolb/XcodeGen",
+      "url": "https://github.com/yonaskolb/XcodeGen",
+      "source": "github_trending",
+      "content": "\nXcodeプロジェクトを生成するためのSwiftコマンドラインツール\n\n⭐ スター数: 7213\n\n---\n"
+    },
+    {
+      "title": "nicklockwood/SwiftFormat",
+      "url": "https://github.com/nicklockwood/SwiftFormat",
+      "source": "github_trending",
+      "content": "\nSwiftコードをフォーマットするためのコマンドラインツールとXcode拡張機能です。\n\n⭐ スター数: 8137\n\n---\n"
+    },
+    {
+      "title": "siteline/swiftui-introspect",
+      "url": "https://github.com/siteline/swiftui-introspect",
+      "source": "github_trending",
+      "content": "\nSwiftUIからUIKit/AppKitの基礎となるコンポーネントをintrospect（内省）する。\n\n⭐ スター数: 5899\n\n---\n"
+    },
+    {
+      "title": "mapbox/mapbox-maps-ios",
+      "url": "https://github.com/mapbox/mapbox-maps-ios",
+      "source": "github_trending",
+      "content": "\niOS向けの、ベクタータイルとMetalを活用したインタラクティブで完全にカスタマイズ可能な地図。\n\n⭐ スター数: 505\n\n---\n"
+    },
+    {
+      "title": "foss42/apidash",
+      "url": "https://github.com/foss42/apidash",
+      "source": "github_trending",
+      "content": "\nAPI Dashは、Flutterを使用して構築された美しいオープンソースのクロスプラットフォーム（macOS、Windows、Linux、Android、iOS）APIクライアントです。これを使えば、HTTPやGraphQLのAPIリクエストを簡単に作成・カスタマイズし、レスポンスを視覚的に確認し、API統合コードを生成することができます。PostmanやInsomniaの軽量な代替ツールです。\n\n⭐ スター数: 1927\n\n---\n"
+    },
+    {
+      "title": "KaringX/karing",
+      "url": "https://github.com/KaringX/karing",
+      "source": "github_trending",
+      "content": "\nシンプルで強力なプロキシユーティリティ、clash/sing-boxのルーティングルールをサポートしています。\n\n⭐ スター数: 4377\n\n---\n"
+    },
+    {
+      "title": "academind/flutter-complete-guide-course-resources",
+      "url": "https://github.com/academind/flutter-complete-guide-course-resources",
+      "source": "github_trending",
+      "content": "\n私たちの完全なFlutter & Dartコース（https://acad.link/flutter）のコースリソース（コードスナップショットとスライド）。\n\n⭐ スター数: 2177\n\n---\n"
+    },
+    {
+      "title": "fluttercommunity/flutter_workmanager",
+      "url": "https://github.com/fluttercommunity/flutter_workmanager",
+      "source": "github_trending",
+      "content": "\nFlutterプラグインで、AndroidとiOSでバックグラウンドでコードを実行することができます。\n\n⭐ スター数: 904\n\n---\n"
+    },
+    {
+      "title": "jing332/AListFlutter",
+      "url": "https://github.com/jing332/AListFlutter",
+      "source": "github_trending",
+      "content": "\nAListのAndroidバージョンは、APKをインストールするだけで使用でき、RootやTermuxは必要ありません。\n\n⭐ スター数: 1719\n\n---\n"
+    },
+    {
+      "title": "mastodon/mastodon",
+      "url": "https://github.com/mastodon/mastodon",
+      "source": "github_trending",
+      "content": "\nあなたの自ホスト型、世界的に相互接続されたマイクロブログコミュニティ\n\n⭐ スター数: 47847\n\n---\n"
+    },
+    {
+      "title": "dependabot/dependabot-core",
+      "url": "https://github.com/dependabot/dependabot-core",
+      "source": "github_trending",
+      "content": "\n🤖 DependabotがアップデートPRを作成するための中心的なロジック。\n\n⭐ スター数: 4908\n\n---\n"
+    },
+    {
+      "title": "gitlabhq/gitlabhq",
+      "url": "https://github.com/gitlabhq/gitlabhq",
+      "source": "github_trending",
+      "content": "\nGitLab CE Mirror | 新しい問題はGitLab.comの課題トラッカーに登録してください。\n\n⭐ スター数: 23912\n\n---\n"
+    },
+    {
+      "title": "ruby/ruby",
+      "url": "https://github.com/ruby/ruby",
+      "source": "github_trending",
+      "content": "\nRubyプログラミング言語\n\n⭐ スター数: 22389\n\n---\n"
+    },
+    {
+      "title": "rubygems/rubygems",
+      "url": "https://github.com/rubygems/rubygems",
+      "source": "github_trending",
+      "content": "\nRubyのライブラリのパッケージングと配布。\n\n⭐ スター数: 3746\n\n---\n"
+    },
+    {
+      "title": "snipe/snipe-it",
+      "url": "https://github.com/snipe/snipe-it",
+      "source": "github_trending",
+      "content": "\n無料のオープンソースIT資産/ライセンス管理システム\n\n⭐ スター数: 11743\n\n---\n"
+    },
+    {
+      "title": "statamic/cms",
+      "url": "https://github.com/statamic/cms",
+      "source": "github_trending",
+      "content": "\nLaravel CMS のコア Composer パッケージ\n\n⭐ スター数: 4275\n\n---\n"
+    },
+    {
+      "title": "magento/magento2",
+      "url": "https://github.com/magento/magento2",
+      "source": "github_trending",
+      "content": "\n提出を行う前に、Adobe Contributor License Agreementに署名する必要があります。こちらから入手できます: https://opensource.adobe.com/cla.html。Adobe Inc.およびその関連会社、譲受人、子会社（総称して「Adobe」）に対するあなたのすべての提出は、Adobe Contributor License Agreementの条項に従うものとします。\n\n⭐ スター数: 11701\n\n---\n"
+    },
+    {
+      "title": "phpmyadmin/phpmyadmin",
+      "url": "https://github.com/phpmyadmin/phpmyadmin",
+      "source": "github_trending",
+      "content": "\nMySQLとMariaDBのウェブインターフェース\n\n⭐ スター数: 7418\n\n---\n"
+    },
+    {
+      "title": "assimon/dujiaoka",
+      "url": "https://github.com/assimon/dujiaoka",
+      "source": "github_trending",
+      "content": "\n🦄独角数卡（自動販売システム） - オープンソースのウェブマスター向け自動販売ソリューション、高効率、安定、迅速！🚀🚀🎉🎉\n\n⭐ スター数: 10028\n\n---\n"
+    },
+    {
+      "title": "OpenRA/OpenRA",
+      "url": "https://github.com/OpenRA/OpenRA",
+      "source": "github_trending",
+      "content": "\nウェストウッドの初期のゲーム、例えば「Command & Conquer: Red Alert」向けのオープンソースリアルタイムストラテジーゲームエンジンで、C#を使用し、SDLとOpenGLで書かれています。Windows、Linux、*BSD、Mac OS Xで動作します。\n\n⭐ スター数: 15251\n\n---\n"
+    },
+    {
+      "title": "dotnet/maui",
+      "url": "https://github.com/dotnet/maui",
+      "source": "github_trending",
+      "content": "\n.NET MAUIは、モバイル、タブレット、デスクトップにわたるネイティブデバイスアプリケーションを構築するためのフレームワークである.NET Multi-platform App UIです。\n\n⭐ スター数: 22483\n\n---\n"
+    },
+    {
+      "title": "Azure/azure-sdk-for-net",
+      "url": "https://github.com/Azure/azure-sdk-for-net",
+      "source": "github_trending",
+      "content": "\nこのリポジトリは、.NET向けAzure SDKの actively developmentのためのものです。SDKの利用者には、https://learn.microsoft.com/dotnet/azure/ の公開されている開発者ドキュメント、または https://azure.github.io/azure-sdk-for-net のバージョン付き開発者ドキュメントを訪問することをお勧めします。\n\n⭐ スター数: 5648\n\n---\n"
+    },
+    {
+      "title": "mcmonkeyprojects/SwarmUI",
+      "url": "https://github.com/mcmonkeyprojects/SwarmUI",
+      "source": "github_trending",
+      "content": "\nSwarmUI（旧称StableSwarmUI）は、モジュール式のStable Diffusion Webユーザーインターフェースで、パワーツールの容易なアクセス、高性能、拡張性に重点を置いています。\n\n⭐ スター数: 2069\n\n---\n"
+    },
+    {
+      "title": "umbraco/Umbraco-CMS",
+      "url": "https://github.com/umbraco/Umbraco-CMS",
+      "source": "github_trending",
+      "content": "\nUmbracoは、魅力的なデジタル体験を提供するために役立つ、無料でオープンソースの.NETコンテンツ管理システムです。\n\n⭐ スター数: 4737\n\n---\n"
+    },
+    {
+      "title": "JuliaLang/julia",
+      "url": "https://github.com/JuliaLang/julia",
+      "source": "github_trending",
+      "content": "\nジュリアプログラミング言語\n\n⭐ スター数: 46495\n\n---\n"
+    },
+    {
+      "title": "JuliaRegistries/General",
+      "url": "https://github.com/JuliaRegistries/General",
+      "source": "github_trending",
+      "content": "\n一般的なJuliaパッケージの公式レジストリ\n\n⭐ スター数: 618\n\n---\n"
+    },
+    {
+      "title": "Jutho/TensorKit.jl",
+      "url": "https://github.com/Jutho/TensorKit.jl",
+      "source": "github_trending",
+      "content": "\n大規模なテンソル計算のためのJuliaパッケージ、カテゴリ理論のヒント付き\n\n⭐ スター数: 286\n\n---\n"
+    },
+    {
+      "title": "JuliaSymbolics/Symbolics.jl",
+      "url": "https://github.com/JuliaSymbolics/Symbolics.jl",
+      "source": "github_trending",
+      "content": "\n次世代の数値ソフトウェアのためのシンボリックプログラミング\n\n⭐ スター数: 1395\n\n---\n"
+    },
+    {
+      "title": "SciML/OrdinaryDiffEq.jl",
+      "url": "https://github.com/SciML/OrdinaryDiffEq.jl",
+      "source": "github_trending",
+      "content": "\n高性能な常微分方程式（ODE）と微分代数方程式（DAE）のソルバー、ニューラル常微分方程式（ニューラルODE）と科学的機械学習（SciML）を含む。\n\n⭐ スター数: 578\n\n---\n\n"
+    }
+  ]
+}
